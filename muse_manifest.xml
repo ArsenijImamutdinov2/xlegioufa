@@ -1,0 +1,140 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://92.53.96.135" ftp_rootfolder="//public_html" exportTarget="FTP" domain="xlegioufa.ru" resolutions="1x" timestamp="1509644323286">
+  <folder name="css">
+    <file name="site_global.css" crc="3981616736"/>
+    <file name="index.css" crc="3924387145" ref="index"/>
+    <file name="nomq_index.css" crc="4102513460" ref="index"/>
+    <file name="iefonts_index.css" crc="3882036941" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="peacesans.woff" crc="4031246916"/>
+    <file name="peacesans.eot" crc="321452010"/>
+    <file name="peacesans.svg" crc="4089394364"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dreamstime_41432367.jpg" crc="4133782333" ref="index"/>
+    <file name="рыцарь3.png" crc="4292816797" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="рыцарь1.png" crc="372871526" seo="true" ref="index"/>
+    <file name="flag.svg" crc="58074677" seo="true" ref="index"/>
+    <file name="flag_poster_.png" crc="25197991" ref="index"/>
+    <file name="telefon.svg" crc="3993542641" seo="true" ref="index"/>
+    <file name="telefon_poster_.png" crc="133147401" ref="index"/>
+    <file name="dom.svg" crc="3907535486" seo="true" ref="index"/>
+    <file name="dom_poster_.png" crc="253729507" ref="index"/>
+    <file name="kaban.svg" crc="4181872135" seo="true" ref="index"/>
+    <file name="kaban_poster_.png" crc="4190851937" ref="index"/>
+    <file name="portret111.jpg" crc="3932036070" seo="true" ref="index"/>
+    <file name="vk.svg" crc="12262371" seo="true" ref="index"/>
+    <file name="vk_poster_.png" crc="432208036" ref="index"/>
+    <file name="01.gif" crc="3928233163" ref="index"/>
+    <file name="anim01.gif" crc="4144876501" ref="index"/>
+    <file name="02.gif" crc="442992184" ref="index"/>
+    <file name="anim02.gif" crc="3964343981" ref="index"/>
+    <file name="безымянный-4.png" crc="3913705536" seo="true" ref="index"/>
+    <file name="безымянный-5.png" crc="202981736" seo="true" ref="index"/>
+    <file name="безымянный-6.png" crc="807348" seo="true" ref="index"/>
+    <file name="strelka.svg" crc="511554907" seo="true" ref="index"/>
+    <file name="strelka_poster_.png" crc="267348380" ref="index"/>
+    <file name="безымянный-7.png" crc="236652457" seo="true" ref="index"/>
+    <file name="безымянный-8.png" crc="420012266" seo="true" ref="index"/>
+    <file name="безымянный-11.png" crc="257419910" seo="true" ref="index"/>
+    <file name="безымянный-12.png" crc="172535042" seo="true" ref="index"/>
+    <file name="безымянный-13.png" crc="139020228" seo="true" ref="index"/>
+    <file name="безымянный-14.png" crc="307428091" seo="true" ref="index"/>
+    <file name="безымянный-15.png" crc="409399433" seo="true" ref="index"/>
+    <file name="strelka2.svg" crc="36439156" seo="true" ref="index"/>
+    <file name="strelka2_poster_.png" crc="226326127" ref="index"/>
+    <file name="portret 3.jpg" crc="4120748912" seo="true" ref="index"/>
+    <file name="portret1-01-crop-u996.jpg" crc="4150436357" ref="index"/>
+    <file name="portret 2.jpg" crc="372892671" seo="true" ref="index"/>
+    <file name="oluzb1cw-ls.jpg" crc="4193014101" seo="true" ref="index"/>
+    <file name="f7juaxxadf0.jpg" crc="188534447" seo="true" ref="index"/>
+    <file name="6s7r80wv7dy.jpg" crc="4085953623" seo="true" ref="index"/>
+    <file name="mthadlftavc.jpg" crc="4074175081" seo="true" ref="index"/>
+    <file name="4xazazlyu9a.jpg" crc="4078978671" seo="true" ref="index"/>
+    <file name="изображение 080.jpg" crc="4222415687" seo="true" ref="index"/>
+    <file name="oluzb1cw-ls292x195.jpg" crc="471584830" seo="true" ref="index"/>
+    <file name="f7juaxxadf0-crop-u1911.jpg" crc="411267051" ref="index"/>
+    <file name="6s7r80wv7dy292x195.jpg" crc="3855021375" seo="true" ref="index"/>
+    <file name="mthadlftavc293x195.jpg" crc="270247313" seo="true" ref="index"/>
+    <file name="4xazazlyu9a291x195.jpg" crc="178727014" seo="true" ref="index"/>
+    <file name="изображение 080270x203.jpg" crc="3994994727" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="banner-01-u1448.png" crc="3875317028" ref="index"/>
+    <file name="уфа-блюхера-9.jpg" crc="333263" seo="true" ref="index"/>
+    <file name="идет.png" crc="4068360321" seo="true" ref="index"/>
+    <file name="strel.svg" crc="4047209635" seo="true" ref="index"/>
+    <file name="strel_poster_.png" crc="4242110473" ref="index"/>
+    <file name="безымянный-15224x163.png" crc="45915441" seo="true" ref="index"/>
+    <file name="portret1-01.jpg" crc="4221715015" seo="true" ref="index"/>
+    <file name="oluzb1cw-ls216x144.jpg" crc="4140343723" seo="true" ref="index"/>
+    <file name="f7juaxxadf0-crop-u19112.jpg" crc="3841085258" ref="index"/>
+    <file name="6s7r80wv7dy216x144.jpg" crc="486335638" seo="true" ref="index"/>
+    <file name="mthadlftavc217x144.jpg" crc="226554934" seo="true" ref="index"/>
+    <file name="4xazazlyu9a216x144.jpg" crc="3845583215" seo="true" ref="index"/>
+    <file name="изображение 080200x150.jpg" crc="289121724" seo="true" ref="index"/>
+    <file name="banner-01-u14482.png" crc="4230131817" ref="index"/>
+    <file name="уфа-блюхера-9-crop-u1406.jpg" crc="381581797" ref="index"/>
+    <file name="идет236x350.png" crc="497007849" seo="true" ref="index"/>
+    <file name="dreamstime_41432367-u126-fr.jpg" crc="102178496" ref="index"/>
+    <file name="рыцарь3278x276.png" crc="4093433149" seo="true" ref="index"/>
+    <file name="рыцарь1301x285.png" crc="4247470010" seo="true" ref="index"/>
+    <file name="f7juaxxadf0-crop-u19113.jpg" crc="3841085258" ref="index"/>
+    <file name="banner-01-u14483.png" crc="4230131817" ref="index"/>
+    <file name="уфа-блюхера-9-crop-u14062.jpg" crc="381581797" ref="index"/>
+    <file name="идет206x306.png" crc="4841483" seo="true" ref="index"/>
+    <file name="dreamstime_41432367-u126-fr2.jpg" crc="121692146" ref="index"/>
+    <file name="рыцарь3248x245.png" crc="461905825" seo="true" ref="index"/>
+    <file name="рыцарь1268x254.png" crc="110529562" seo="true" ref="index"/>
+    <file name="безымянный-15199x145.png" crc="3767557339" seo="true" ref="index"/>
+    <file name="f7juaxxadf0-crop-u19114.jpg" crc="3841085258" ref="index"/>
+    <file name="banner-01-u14484.png" crc="4230131817" ref="index"/>
+    <file name="уфа-блюхера-9-crop-u14063.jpg" crc="381581797" ref="index"/>
+    <file name="dreamstime_41432367-u126-fr3.jpg" crc="3917572626" ref="index"/>
+    <file name="рыцарь3212x210.png" crc="218369981" seo="true" ref="index"/>
+    <file name="рыцарь1230x218.png" crc="140744888" seo="true" ref="index"/>
+    <file name="безымянный-15191x139.png" crc="4172360714" seo="true" ref="index"/>
+    <file name="oluzb1cw-ls312x208.jpg" crc="423773301" seo="true" ref="index"/>
+    <file name="f7juaxxadf0371x208.jpg" crc="31316008" seo="true" ref="index"/>
+    <file name="6s7r80wv7dy312x208.jpg" crc="4012772331" seo="true" ref="index"/>
+    <file name="mthadlftavc313x208.jpg" crc="92156879" seo="true" ref="index"/>
+    <file name="4xazazlyu9a311x208.jpg" crc="529028488" seo="true" ref="index"/>
+    <file name="изображение 080300x225.jpg" crc="3916013981" seo="true" ref="index"/>
+    <file name="banner-01-u14485.png" crc="4230131817" ref="index"/>
+    <file name="уфа-блюхера-9-crop-u14064.jpg" crc="381581797" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3777608027" seo="true" mt="1509642858449" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Главная" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U4841" maxwidth="450" minwidth="0" squishy="false"/>
+        <breakpoint uid="U7110" maxwidth="620" minwidth="451" squishy="false"/>
+        <breakpoint uid="U3876" maxwidth="720" minwidth="621" squishy="false"/>
+        <breakpoint uid="U2536" maxwidth="960" minwidth="721" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1160" minwidth="961" squishy="false"/>
+        <anchor name="head" html_id="head" muse_href="anchor:U82:U1462" includeInBPs="U4841,U7110,U3876,U2536,U83"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
